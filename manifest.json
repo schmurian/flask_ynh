@@ -64,7 +64,7 @@
             {
                 "name": "is_public",
                 "type": "boolean",
-                "default": true,
+                "default": false,
                 "ask": {
                     "en": "Make the app public?",
                     "fr": "Rendre l'application publique ?"
