@@ -1,7 +1,12 @@
 Flask template for YunoHost
 ===========================
 
-This is a Flask template for YunoHost.
+## Disclaimers
+**Warning:** This YunoHost app is still in development. Use it at your own risk!
+
+## Overview
+This is a fork of Flask template for YunoHost.
+This fork doesn't include database dependencies.
 
 It will setup a basic Hello World app in `/var/www/<appname>`.
 
@@ -15,9 +20,7 @@ Technologies
 ------------
 
 - Python 3
-- ~~Postgresql~~ (sqlite, but should be able to choose postgres vs. sqlite at install)
 - Gunicorn
-- SQLAlchemy
 
 Todo
 ----
@@ -27,4 +30,4 @@ Todo
 - [ ] Enhance database setting and helpers
 - [ ] Document how to launch a dev server
 - [ ] ???
-- [x] Be able to choose between sqlite and postgres
+- [ ] Add database options
