@@ -27,7 +27,6 @@ Todo
 
 - [ ] Really set app label
 - [ ] Handle public/private option
-- [ ] Enhance database setting and helpers
+- [ ] Add database features
 - [ ] Document how to launch a dev server
 - [ ] ???
-- [ ] Add database options
