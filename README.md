@@ -6,7 +6,7 @@ Flask template for YunoHost
 
 ## Overview
 This is a fork of Flask template for YunoHost.
-This fork doesn't include database dependencies because it would brake the installer.
+This fork doesn't include database dependencies because it would break the installer.
 
 It will setup a basic Hello World app in `/var/www/<appname>`.
 
